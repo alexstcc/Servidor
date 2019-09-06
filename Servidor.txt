@@ -1,0 +1,16 @@
+Link: https://www.tecmundo.com.br/como-fazer/41291-como-criar-seu-proprio-servidor-de-arquivos-em-casa.htm
+
+Montar um servidor:
+1) Montar o hardware
+	* Uma placa mãe;
+	* Um processador apartir de 2Ghz;
+	* Memória RAM a partir de 512 mega;
+	* Um HD.
+2) Instalar o linux
+3) Limpe o sistema operacional
+4) Configurar o compartilhamento de arquivo
+	* Instalar o SAMBA:
+		link: https://sempreupdate.com.br/como-configurar-o-samba-no-debian-ubuntu-linux-mint/
+5) Adicionar capacidadec FTP
+6) Configure o acesso Shell(SSH)
+7) Divirta-se
